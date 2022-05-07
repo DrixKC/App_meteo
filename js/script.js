@@ -1,5 +1,3 @@
-// https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid=af3455bd56d9f8de201809a1599f9dda`
-
 let weather = {
     apiKey: "ff1ba1fd39e3a27ccf79e1b63ee8c5a0",
     RepMeteo: function (city) {
